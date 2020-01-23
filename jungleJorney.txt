@@ -9,3 +9,4 @@ List of elements we need:
 4. Food
 5. A flashlight
 6. A sword
+7. A backpag
